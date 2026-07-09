@@ -1,0 +1,7 @@
+{
+  "slug": "pharmacy",
+  "name": "Pharmacy",
+  "icon": "Pill",
+  "order": 1,
+  "description": "Pharmacy account — receive, sell, return serialized pharmaceutical packs."
+}

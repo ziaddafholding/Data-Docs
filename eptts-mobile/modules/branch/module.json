@@ -1,0 +1,7 @@
+{
+  "slug": "branch",
+  "name": "Branch",
+  "icon": "Building2",
+  "order": 2,
+  "description": "Branch account — branch-level operations and stock management."
+}
